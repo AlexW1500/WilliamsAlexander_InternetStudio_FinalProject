@@ -4,11 +4,6 @@ html {
 }
 
 body {
-    margin: 1rem;
-    background-color: #9EECFF;
-    color: black;
-    font-size: 5rem;
-    overflow: hidden;
 
     background: url("../img/crimesceneptone.png");
     background-repeat: no-repeat;
