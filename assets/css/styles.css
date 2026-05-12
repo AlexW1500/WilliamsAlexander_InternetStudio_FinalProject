@@ -4,11 +4,11 @@ html {
 }
 
 body {
-
+    
     background: url("../img/crimesceneptone.png");
     background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;
+    background-size: contain;
 }
 
 .grid-container {
