@@ -16,7 +16,12 @@ body {
     background-size: cover;
 }
 
-
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 2rem;
+    margin: 10% 4rem 0 4rem;
+}
 
 
 .last {
