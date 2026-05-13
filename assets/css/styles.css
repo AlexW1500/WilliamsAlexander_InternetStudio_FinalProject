@@ -10,10 +10,10 @@ body {
     font-size: 5rem;
     overflow: hidden;
     
-    background: url("../img/crimescene01.png");
+    background: url("../img/crimescenepartone.png");
     background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;
+    background-size: contain;
 }
 
 .grid-container {
